@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chestersa4 (Chester)
 - 👀 I’m interested in learning how to build websites in HTML, CSS and JavaScript
 - 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on nothing at the moment
+- 💞️ I’m looking to collaborate on nothing too serious at the moment.
 - 📫 How to reach me: Send me a message!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
